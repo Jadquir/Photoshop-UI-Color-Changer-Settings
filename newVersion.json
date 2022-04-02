@@ -10,7 +10,7 @@
     },
     {
       "version": 1.1,
-      "IsMustHave": true,
+      "IsMustHave": false,
       "Latest": true,
       "Changes": [
         " - Added update changelog viewer.",
