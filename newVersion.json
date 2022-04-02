@@ -1,0 +1,23 @@
+{
+  "Updates": [
+    {
+      "version": 1.0,
+      "IsMustHave": false,
+      "Latest": false,
+      "Changes": [
+        " - Official Release."
+      ]
+    },
+    {
+      "version": 1.1,
+      "IsMustHave": true,
+      "Latest": true,
+      "Changes": [
+        " - Added update changelog viewer.",
+        " - Added ability to change every component separetly.",
+        " - Updated UI."
+      ]
+    }
+  ],
+  "DownloadLink": "https://jadquir.itch.io/photoshop-ui-color-changer"
+}
