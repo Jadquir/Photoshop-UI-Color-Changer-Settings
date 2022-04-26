@@ -11,11 +11,19 @@
     {
       "version": 1.1,
       "IsMustHave": true,
-      "Latest": true,
+      "Latest": false,
       "Changes": [
         " - Added update changelog viewer.",
         " - Added ability to change every component separately.",
         " - Updated UI."
+      ]
+    },
+    {
+      "Version": 1.2,
+      "IsMustHave": false,
+      "Latest": true,
+      "Changes": [
+        " - Updated Color Picker(Fixed can't select grayish colors)."
       ]
     }
   ],
