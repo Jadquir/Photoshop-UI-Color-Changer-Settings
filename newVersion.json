@@ -21,9 +21,17 @@
     {
       "Version": 1.2,
       "IsMustHave": false,
+      "Latest": false,
+      "Changes": [
+        " - Updated Color Picker (Fixed can't select grayish colors)."
+      ]
+    },
+    {
+      "Version": 1.3,
+      "IsMustHave": false,
       "Latest": true,
       "Changes": [
-        " - Updated Color Picker(Fixed can't select grayish colors)."
+        " - Added support for .cel files."
       ]
     }
   ],
